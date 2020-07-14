@@ -6,31 +6,5 @@ public class CoffeeMachine {
         MachineInterface machine = new MachineInterface();
         machine.start();
 
-        public static void main(String[] args) {
-
-            MachineInterface machine = new MachineInterface();
-            machine.start();
-
-            public static void main(String[] args) {
-
-                MachineInterface machine = new MachineInterface();
-                machine.start();
-
-                public static void main(String[] args) {
-
-                    MachineInterface machine = new MachineInterface();
-                    machine.start();
-
-                    public static void main(String[] args) {
-
-                        MachineInterface machine = new MachineInterface();
-                        machine.start();
-
-                        public static void main(String[] args) {
-
-                            MachineInterface machine = new MachineInterface();
-                            machine.start();
-
-
-                        }
+    }
 }
